@@ -1,0 +1,13 @@
+{
+  "name": "friday-ledger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Friday Ledger weekly budget tracker, packaged as an Android app",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}
